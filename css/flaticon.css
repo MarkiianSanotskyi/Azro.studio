@@ -1,0 +1,103 @@
+@font-face {
+	font-family: "Flaticon";
+	src: url("../fonts/flaticon.eot");
+	src: url("../fonts/flaticon.eot#iefix") format("embedded-opentype"),
+	url("../fonts/flaticon.woff") format("woff"),
+	url("../fonts/flaticon.ttf") format("truetype"),
+	url("../fonts/flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="ico-"]:before, [class*="ico-"]:before,
+[class^="ico-"]:after, [class*="ico-"]:after {   
+	font-family: Flaticon;
+        font-size: 20px;
+font-style: normal;
+
+}.ico-add-comments:before {
+	content: "\e000";
+}
+.ico-blog-button:before {
+	content: "\e001";
+}
+.ico-name:before {
+	content: "\e002";
+}
+.ico-cancel3:before {
+	content: "\e003";
+}
+.ico-close32:before {
+	content: "\e004";
+}
+.ico-close47:before {
+	content: "\e005";
+}
+.ico-our-door:before {
+	content: "\e006";
+}
+.ico-mail:before {
+	content: "\e007";
+}
+.ico-facebook:before {
+	content: "\e008";
+}
+.ico-left197:before {
+	content: "\e009";
+}
+.ico-arrows:before {
+	content: "\e00a";
+}
+.ico-work-link:before {
+	content: "\e00b";
+}
+.ico-notepad16:before {
+	content: "\e00c";
+}
+.ico-massage:before {
+	content: "\e00d";
+}
+.ico-punctuation4:before {
+	content: "\e00e";
+}
+.ico-answer-arrow:before {
+	content: "\e00f";
+}
+.ico-arrow-back:before {
+	content: "\e010";
+}
+.ico-rewind44:before {
+	content: "\e011";
+}
+.ico-right194:after {
+	content: "\e012";
+}
+.ico-right218:before {
+	content: "\e013";
+}
+.ico-settings69:before {
+	content: "\e014";
+}
+.ico-skype:before {
+	content: "\e015";
+}
+.ico-phone:before {
+	content: "\e016";
+}
+.ico-blog-comments:before {
+	content: "\e017";
+}
+.ico-work-date:before {
+	content: "\e018";
+}
+.ico-twitter:before {
+	content: "\e019";
+}
+.ico-view:before {
+	content: "\e01a";
+}
+.ico-vk4:before {
+	content: "\e01b";
+}
+.ico-zoom-link:before {
+	content: "\e01c";
+}
